@@ -9,7 +9,7 @@ Some parts of this script are not efficient or not working 100% properly. It's w
 - Create a new Google Sheet
 - In the top row create the following in cell's A-P
 
-orgUnitPath, notes, annotatedLocation, annotatedAssetId, annotatedUser, serialNumber, status, recentyUsers, activeTimes, lastSync, lastEnrollmentTime, deviceId, model, platformVersion, firmwareVersion, supportEndDate
+orgUnitPath, notes, annotatedLocation, annotatedAssetId, annotatedUser, serialNumber, status, recentUsers, activeTimes, lastSync, lastEnrollmentTime, deviceId, model, platformVersion, firmwareVersion, supportEndDate
 
 I ususally give the first row a background color and 'View > Freeze' the 1st row and up through column E. Columns A-E can be updated. F-P are data points that cannot be updated back into the admin console.
 
