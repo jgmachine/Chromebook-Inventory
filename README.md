@@ -1,10 +1,11 @@
-Some parts of this script are not efficient or not working 100% properly. It's worked good enough for what I've needed it to do, I don't work with javascript much, and with time being scarce, I've just left it as is, as it gets the job done.
+# Chromebook Inventory - Google Apps Script
+Some parts of this script are not efficient or not working 100% properly. It's worked good enough for what I've needed it to do, I don't work with javascript much, and with time being scarce, I've just left it as is, as it gets the job done. While this works fine for me, you should use this at your own risk.
 
-# Requirements
+## Requirements
 - A Google workspace domain with managed chromebooks
 - Privileges to access the Google Admin SDK API (Super Admin or other with appropriate permissions)
 
-# Installation Instructions
+## Installation Instructions
 
 - Create a new Google Sheet
 - In the top row create the following in cell's A-P
